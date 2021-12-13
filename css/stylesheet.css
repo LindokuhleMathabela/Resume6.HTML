@@ -1,0 +1,43 @@
+#headshot{
+  width: 15%;
+  height:15%;
+  border:green solid;
+  border-width: 3px;
+  border-radius: 50%;
+  margin-top: 1rem;
+}
+
+header {color: beige;
+  background-color: cadetblue;
+  text-align: center;
+}
+
+body{background: lightsalmon;}
+
+
+  #sidebar{
+    width: 20%;
+    background-color: blueviolet;
+    padding: 1rem;
+    border: dimgrey solid 10px;
+  }
+  #content{width: 80%;
+  padding: 1rem;
+margin: 1rem;
+border:solid blue 10px}
+  main {display:flex;
+        border: 10px solid yellow;}
+.section{
+  background-color: rgb(108, 209, 209);
+  padding: 15px;
+  margin-bottom: 20px;}
+
+footer { color: ghostwhite;
+  background-color: #343330;
+  text-align: center;
+}
+.icon{
+  width: 5rem;
+  height: auto;
+  margin: 3%;
+}
